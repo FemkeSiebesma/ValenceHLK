@@ -6,4 +6,4 @@ This data set includes all occurrences of the Hebrew verb /HLK/ with preposition
 
 The data in the first four columns was taken from the database of the Eep Talstra Centre for Bible and Computer (ETCBC, VU Amsterdam). 
 
-The other three columns were coded by hand. Column E, mode of interpretation, and column F, semantic role, were coded by me. The Hebrew language type column (G) follows the division that is described by Ian Young, Robert Rezetko, and Martin Ehrensvärd as the traditional consensus (in their book Linguistic Dating of Biblical Texts, Vol. 1, p. 11). 
+The other three columns were coded by hand. Column "mode", mode of interpretation, and column "role", semantic role, were coded by me. The Hebrew language type column ("type") follows the division that is described by Ian Young, Robert Rezetko, and Martin Ehrensvärd as the traditional consensus (in their book Linguistic Dating of Biblical Texts, Vol. 1, p. 11). 
